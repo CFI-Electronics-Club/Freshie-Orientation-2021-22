@@ -15,8 +15,7 @@ To design a circuit using Arduino which alerts us if gas concentration is greate
 [How does a Gas sensor work ?](https://lastminuteengineers.com/mq2-gas-senser-arduino-tutorial/#:~:text=Using%20a%20simple%20voltage%20divider,anywhere%20from%20200%20to%2010000ppm)
 
 ### Schematic:
-![diagram](./images/GasDetection-diagram.jpeg)
-
+![image](https://user-images.githubusercontent.com/85028192/147688019-e1c45e80-100a-4db0-921f-df84517cfb89.png)
 
 ### Code:
 ```cpp
