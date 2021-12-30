@@ -17,6 +17,10 @@ To design a circuit using Arduino which alerts us if gas concentration is greate
 ### Schematic:
 ![image](https://user-images.githubusercontent.com/85028192/147688019-e1c45e80-100a-4db0-921f-df84517cfb89.png)
 
+### Code Blocks:
+
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/85028192/147727809-41ea4461-55bb-4e4a-b4c6-3353ea4ffd34.png">
+
 ### Code:
 ```cpp
 int gas = 0;
@@ -47,4 +51,4 @@ void loop()
 }
 ```
 ### Tinkercad Link:
-https://www.tinkercad.com/things/eDPl7cqVJuX
+https://www.tinkercad.com/things/3d45fg0TqXi
