@@ -1,6 +1,7 @@
-# Circuitery of scrolling display of "Hello Freshies Welcome to IITM"
+# LCD scrolling display
 ## Circuit
-![](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/Hello-Freshies.png)
+![image](https://user-images.githubusercontent.com/75153414/147850327-4085f966-c9e2-4199-bcba-af9066cf7698.png)
+
 ## Code
 
 ```cpp
@@ -44,9 +45,9 @@ void setup() {
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
   // Print a message to the LCD.
-  lcd.print(" Hello Freshies");
+  lcd.print("Electronics Club");
   lcd.setCursor(0,1);
-  lcd.print("Welcome to IITM!");
+  lcd.print("      CFI");
 }
 
 void loop() {
