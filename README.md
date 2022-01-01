@@ -1,8 +1,8 @@
-# Freshie-Orientation
+# WARP:Into the Electroverse
 
-Hope you all enjoyed the session!
+Hope you all enjoyed the session!!!
 
-You can find the recordings and the presentation used in the session [here](https://drive.google.com/drive/folders/1yNTfgPGZHvPIgUpi1AcZuRymw0W0NgV_?usp=sharing)
+You can find the recording of the session [here](https://drive.google.com/file/d/1bXvuk6WHgsm-FODKETIxDDL_7RS8JvfP/view?usp=sharing)
 
 You can find the tasks [here](https://drive.google.com/file/d/11TH25s7xJTMGCzRqhd1OV7plWI02v0ic/view?usp=sharing)
 
