@@ -2,7 +2,7 @@
 
 Hope you all enjoyed the session!
 
-You can find the recordings and the presentation used in the session [here](https://drive.google.com/file/d/1QcICMhy_W0GuvW8Sr7o52gqBvTgWQeDx/view?usp=sharing)
+You can find the recordings and the presentation used in the session [here](https://drive.google.com/drive/folders/1yNTfgPGZHvPIgUpi1AcZuRymw0W0NgV_?usp=sharing)
 
 You can find the tasks here
 
